@@ -44,3 +44,47 @@ p {
 .half-wid-2 img {
   width: 104%;
 }
+
+.recipi {
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.all-food {
+  display: flex;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.food img {
+  width: 100%;
+}
+.food {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 40px;
+  box-shadow: 10px 10px 40px #c9c9c9;
+  margin: 100px;
+}
+
+.subscriber {
+  border: 100px;
+  display: flex;
+  border-radius: 20px;
+
+  box-shadow: 10px 10px 50px #c9c9c9;
+  margin: 50px;
+}
+.sub {
+  margin: 2%;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+footer {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background-color: #0b0d17;
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
